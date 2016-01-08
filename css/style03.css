@@ -46,15 +46,15 @@ header h2{
 }
 
 
-blockquote{
-    
-    padding: 2em 0;
-    font-size: 1.2em;
-    line-height: 1.5em;
-    margin:  0;
-    color: darkgray;
-    font-style: oblique;
-}
+blockquote {
+    display: block;
+    float: left;
+    margin-left: 0;
+    font-style: italic;
+    color: #a7a7a7;
+    line-height: 1.75em;
+    font-size: 1.5em;
+    font-family: "Slabo 27px", serif; }
 
 cite{
     font-size: .75em;
