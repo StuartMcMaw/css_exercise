@@ -1,4 +1,4 @@
-- [CSS Exercise 1](https://StuartMcMaw.github.io/css_exercise/version001CSS.html)
+- [CSS Exercise 1](https://StuartMcMaw.github.io/css_exercise/index.html)
 
 - [CSS Exercise 2](https://StuartMcMaw.github.io/css_exercise/version02CSS.html)
 
